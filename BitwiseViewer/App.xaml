@@ -1,8 +1,8 @@
 ﻿<Application 
-    x:Class="BitwiseTranslator.App"
+    x:Class="BitwiseViewer.App"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    xmlns:local="clr-namespace:BitwiseTranslator"
+    xmlns:local="clr-namespace:BitwiseViewer"
     StartupUri="MainWindowView.xaml">
     <Application.Resources>
          

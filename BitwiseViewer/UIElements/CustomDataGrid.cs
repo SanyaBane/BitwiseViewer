@@ -5,7 +5,7 @@ using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 
-namespace BitwiseTranslator.UIElements
+namespace BitwiseViewer.UIElements
 {
     //https://stackoverflow.com/a/22908694
     public class CustomDataGrid : DataGrid
@@ -19,6 +19,7 @@ namespace BitwiseTranslator.UIElements
         {
             this.SelectedItemsList = this.SelectedItems;
         }
+
         #region SelectedItemsList
 
         public IList SelectedItemsList

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+	<bit name="Monday" />
+	<bit name="Tuesday" />
+	<bit name="Wednesday" />
+	<bit name="Thursday" />
+	<bit name="Friday" />
+	<bit name="Saturday" />
+	<bit name="Sunday" />
+	
+</root>
